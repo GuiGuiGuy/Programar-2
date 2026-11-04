@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\Aluno\Downloads\Project1\Project1\FileName.c(6,8): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Project1.vcxproj -> C:\Users\Aluno\Downloads\Project1\x64\Debug\Project1.exe
